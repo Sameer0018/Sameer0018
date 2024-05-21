@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer0018&label=Profile%20views&color=0e75b6&style=flat" alt="sameer0018" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sameerhussain" target="blank"><img src="https://img.shields.io/twitter/follow/sameerhussain?logo=twitter&style=for-the-badge" alt="sameerhussain" /></a> </p>
 
 - 🔭 I’m currently working on [Gaming](https://gaming.cyclic.app/)
 
@@ -19,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sameerhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameerhussain" height="30" width="40" /></a>
-<a href="https://instagram.com/sameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sameer_._hussain_._/?igsh=YzljYTk1ODg3Zg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer0018&show_icons=true&locale=en" alt="sameer0018" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer0018&" alt="sameer0018" /></p>
-
